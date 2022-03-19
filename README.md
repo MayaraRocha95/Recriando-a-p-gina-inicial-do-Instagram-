@@ -1,7 +1,7 @@
 # Recriando-a-p-gina-inicial-do-Instagram
 Este projeto foi feito através do Bootcamp HTML Web Developer da Digital Innovation One e tem o intuito de treinar o conceito de CSS Flexbox e responsividade. Um conteúdo perfeito para além de treinar, aguçar a criatividade!
 
-######Minha página de login:
+###### Minha página de login:
 file:///home/limaluizpaulo/%C3%81rea%20de%20Trabalho/clone-instagram.png![image](https://user-images.githubusercontent.com/98711190/159104709-17ea8801-f474-47b4-97d9-f52e877db3e2.png)
 
  ###### Responsividade:
